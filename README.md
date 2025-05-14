@@ -20,7 +20,7 @@ I am a first-year CSE student at Bannari Amman Institute of Technology <br>inter
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeher-rahavi&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codeher-rahavi&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=codeher-rahavi&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
