@@ -26,10 +26,3 @@ Second Year CSE student at Bannari Amman Institute of Technology with a passion 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light) <br/>
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=codeher-rahavi&icon=9&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
