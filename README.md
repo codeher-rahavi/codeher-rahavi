@@ -17,9 +17,26 @@ Second Year CSE student at Bannari Amman Institute of Technology with a passion 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeher-rahavi&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeher-rahavi&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codeher-rahavi&theme=ambient_gradient&hide_border=true)
+
+<table style="border: none; background: transparent;">
+  <tr>
+    <td style="border: none; background: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api?username=codeher-rahavi&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" />
+    </td>
+    <td style="border: none; background: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeher-rahavi&theme=ambient_gradient&hide_border=true&count_private=false" height="195" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none; background: transparent;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=codeher-rahavi&theme=ambient_gradient&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeher-rahavi&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
